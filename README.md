@@ -4,4 +4,5 @@ Hackathon on Quantum Machine Learning
 
 ## Team: Schrodinger's Cats
 ### Members
-<li>Pranav Maheshwari
+<ol>Pranav Maheshwari
+<ol>Kavit Shah
