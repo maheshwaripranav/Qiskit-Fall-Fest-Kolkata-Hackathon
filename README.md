@@ -2,7 +2,7 @@
 
 Hackathon on Quantum Machine Learning
 
-In this hackathon we tried to implement the qMl algorithms like variational quantum classifier and qSVM to classify the standard iris dataset
+In this hackathon we tried to implement the qML algorithms like variational quantum classifier and qSVM to classify the standard iris dataset
 
 ## Team: Schrodinger's Kittens
 ### Members
